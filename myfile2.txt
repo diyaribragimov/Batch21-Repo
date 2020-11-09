@@ -1,1 +1,3 @@
 create file 2
+we are cloning
+remote to local
